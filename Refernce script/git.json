@@ -25,7 +25,7 @@
         "perameter_sink_file" : "AdventureWorks_Products.csv"
     },
     {
-        "perameter_rel_url" : "santoshpandey99/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "perameter_rel_url" : "santoshpandey99/Adventure-Works-Data-Engineering-Project/refs/heads/main/AdventureWorks_Returns.csv",
         "perameter_sink_folder" : "AdventureWorks_Returns",
         "perameter_sink_file":"AdventureWorks_Returns.csv"
     },
@@ -49,10 +49,6 @@
         "perameter_sink_folder" : "AdventureWorks_Territories",
         "perameter_sink_file" : "AdventureWorks_Territories.csv"
     }
-
-
-
-
 
 
 ]
